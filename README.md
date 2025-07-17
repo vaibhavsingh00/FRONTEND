@@ -1,4 +1,4 @@
-# 🌿 VrikshVatika - Gardening Website
+![IMG_20240121_154139](https://github.com/user-attachments/assets/1541144a-99e3-44e8-a711-3623ade4ecc0)# 🌿 VrikshVatika - Gardening Website
 
 **VrikshVatika** is a beautiful and informative gardening website that provides plant lovers with essential gardening tips, tricks, and a platform to explore and buy various plants and related products.
 
@@ -22,6 +22,7 @@
 - `login.html` – Login page with stylish design
 - `register.html` – Registration form matching the theme
 - `payment.html` – Simple checkout/payment form
+- 
 
 ---
 
@@ -43,3 +44,13 @@
 - Shopping page with product cards
 - Stylish login/register pages powered by UIverse elements
 - Basic cart and payment system (static)
+
+## 📸 Screenshots
+
+<img width="669" height="568" alt="Screenshot 2025-07-17 091909" src="https://github.com/user-attachments/assets/de3527a4-7891-461d-b9dc-bb9232109c08" />
+<img width="1888" height="927" alt="Screenshot 2025-07-17 092015" src="https://github.com/user-attachments/assets/7d8214c7-ff88-457f-9c33-1fb56d313fb1" />
+<img width="1891" height="917" alt="Screenshot 2025-07-17 092001" src="https://github.com/user-attachments/assets/5962cbb1-1acd-406e-bfab-0565f3bc1423" />
+<img width="1001" height="912" alt="Screenshot 2025-07-17 091948" src="https://github.com/user-attachments/assets/1761d4df-f092-4a57-8f5c-65fa699d8e8f" />
+<img width="1865" height="928" alt="Screenshot 2025-07-17 091942" src="https://github.com/user-attachments/assets/1dee6f38-29cd-471f-baf6-67d6f257a86c" />
+<img width="1351" height="196" alt="Screenshot 2025-07-17 091918" src="https://github.com/user-attachments/assets/a952438d-bd79-4477-8946-89090b103fc7" />
+
