@@ -1,4 +1,4 @@
-![IMG_20240121_154139](https://github.com/user-attachments/assets/1541144a-99e3-44e8-a711-3623ade4ecc0)# 🌿 VrikshVatika - Gardening Website
+🌿 VrikshVatika - Gardening Website
 
 **VrikshVatika** is a beautiful and informative gardening website that provides plant lovers with essential gardening tips, tricks, and a platform to explore and buy various plants and related products.
 
